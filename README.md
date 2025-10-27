@@ -1,4 +1,4 @@
-# Bootstrap Portfolio Site 
+# Responsive Site 
 
 **Goal:** Build a responsive personal portfolio using Flexbox and other CSS you know and deploy it on GitHub Pages.
 
