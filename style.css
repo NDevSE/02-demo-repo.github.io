@@ -1,0 +1,20 @@
+body {
+  background-color: powderblue;
+}
+h1 {
+  color: blue;
+}
+p {
+  color: red;
+}
+
+ul {
+    list-style: no bullets;
+}
+
+<center>
+  <video width="320" height="300" controls>
+    <source src="video1.mov" type="video/mov">
+    Your browser does not support the video tag.
+  </video>
+</center> 
